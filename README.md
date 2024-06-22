@@ -5,4 +5,4 @@
 - 📫 How to reach me abdullahragheb12@icloud.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahRagheb&hide=JupyterNotebook&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=AbdullahRagheb&theme=algolia&show_icons=true)](https://github.com/AbdullahRagheb)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=AbdullahRagheb&theme=tokyonight&show_icons=false)](https://github.com/AbdullahRagheb)
