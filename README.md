@@ -4,4 +4,5 @@
 - 💞️ I’m looking to collaborate on Big data projects 
 - 📫 How to reach me abdullahragheb12@icloud.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+
